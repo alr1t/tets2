@@ -1,0 +1,14 @@
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\bin\Debug\net8.0\ArrayRange.exe
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\bin\Debug\net8.0\ArrayRange.deps.json
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\bin\Debug\net8.0\ArrayRange.runtimeconfig.json
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\bin\Debug\net8.0\ArrayRange.dll
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\bin\Debug\net8.0\ArrayRange.pdb
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\obj\Debug\net8.0\ArrayRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\obj\Debug\net8.0\ArrayRange.AssemblyInfoInputs.cache
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\obj\Debug\net8.0\ArrayRange.AssemblyInfo.cs
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\obj\Debug\net8.0\ArrayRange.csproj.CoreCompileInputs.cache
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\obj\Debug\net8.0\ArrayRange.dll
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\obj\Debug\net8.0\refint\ArrayRange.dll
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\obj\Debug\net8.0\ArrayRange.pdb
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\obj\Debug\net8.0\ArrayRange.genruntimeconfig.cache
+C:\Users\nikmo\source\repos\ArrayRange\ArrayRange\obj\Debug\net8.0\ref\ArrayRange.dll
